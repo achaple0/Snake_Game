@@ -91,11 +91,17 @@ class Game:
             if y1 >= y2 and y1 < y2 + SIZE:
                 return True
             return False
+        
+       # THE SECTION BELOW THIS LINE IS THE ONE I NEED HELP WITH :D THANK YOU
+        
+        
     #def between_snake_and_walls(self, x , y):
     #    if x < self.snake.length - self.surface or x > self.snake.length - self.surface:
     #        return False
     #    elif y < self.snake.length - self.surface or y > self.snake.length - self.surface:
     #        return False
+    
+    #######################################################################################
 
 
     def display_score(self):
