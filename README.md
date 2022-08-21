@@ -8,4 +8,4 @@ This game has sound effects.
 
 To run simply save file within kernel file system and then run command through command shell or terminal. 
 
-### Beginner Project ###
+- Beginner Project -
